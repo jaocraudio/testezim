@@ -1,0 +1,23 @@
+body{
+    color: black;
+    width: 65%;
+    background-color: white;
+    padding-left: 10px;
+    padding-right: 20px;
+}
+#b1{
+    position: absolute;
+    background-color: red;
+    top: 0%;
+    color: rgb(0, 0, 0);
+    width: 400px;
+    right: 0%;
+    height: 2290px;
+}
+#oi{
+    background-color: black;
+    color: white;
+}
+a{
+    color: white;
+}

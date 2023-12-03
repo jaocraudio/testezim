@@ -1,0 +1,26 @@
+body{
+    background-color: green;
+    color: rgb(255, 255, 255);
+    width: 65%;
+    padding-right: 20px;
+    padding-left: 10px;
+}
+#b1{
+    position: absolute;
+    background-color: white;
+    top: 0%;
+    color: rgb(0, 0, 0);
+    width: 400px;
+    right: 0%;
+    height: 2500px;
+}
+h3{
+    color: rgb(0, 0, 0);
+}
+#oi{
+    background-color: white;
+    color: white;
+}
+a{
+    color: black;
+}
